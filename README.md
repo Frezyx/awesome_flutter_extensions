@@ -22,6 +22,7 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) | Simplifies the process of adding dependencies to your `pubspec.yaml` file by providing autocompletion and version selection. |
 | [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) | Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps. |
 | [Dart Barrel Export File Generator](https://marketplace.visualstudio.com/items?itemName=orestesgaolin.dart-export-index) | Create barrel file that exports the files in current directory. This allows for importing whole folders in batch instead of importing each file one by one. Creates index.dart and dir_name.dart. |
+| [Dart Part Generator](https://marketplace.visualstudio.com/items?itemName=ZemlyanikinMaksim.dart-part-generator) | Extension to generate Dart part files quickly. Open a dart file, select this command, write a file name. The new dart file with the `part of` will be created and the `part 'path to new file';` will be added to the original file. |
 | [Flutter Coverage](https://marketplace.visualstudio.com/items?itemName=Flutterando.flutter-coverage) | VSCeode Extension for view the code coverage per folder/file in the test view |
 | [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) | Extension for Flutter to build basic widget tree. |
 
