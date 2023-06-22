@@ -28,7 +28,6 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=hzgood.dart-data-class-generator) | Create dart data classes easily, fast and without writing boilerplate or running code generation. |
 | [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) | Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes |
 | [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) | This plugin help you to easily visualize the color. |
-| [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) | This plugin help you to easily visualize the color. |
 | [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) | Shows image preview in the gutter and on hover |
 | [FlutterGPT: Supercharged Dev Experiment](https://marketplace.visualstudio.com/items?itemName=WelltestedAI.fluttergpt) | Use ChatGPT right inside your IDE to create, refactor and debug Flutter code. |
 
@@ -41,6 +40,8 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in IntelliJ IDEA. Provides code analysis, code completion, refactoring, and more. |
 | [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
+| [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
+| [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
 
 ## Android Studio
 
@@ -50,3 +51,5 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in Android Studio. Provides code analysis, code completion, refactoring, and more. |
 | [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
+| [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
+| [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
