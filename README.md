@@ -38,7 +38,7 @@ This repository contains a curated list of the most popular extensions for Flutt
 |--------|-------------|
 | [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) | Official plugin for Flutter development in IntelliJ IDEA. Offers Flutter-specific features like hot reload, widget inspector, and integrated testing. |
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in IntelliJ IDEA. Provides code analysis, code completion, refactoring, and more. |
-| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
+| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/12693-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
 | [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
 | [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
@@ -49,7 +49,7 @@ This repository contains a curated list of the most popular extensions for Flutt
 |--------|-------------|
 | [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) | Official plugin for Flutter development in Android Studio. Offers Flutter-specific features like hot reload, widget inspector, and integrated testing. |
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in Android Studio. Provides code analysis, code completion, refactoring, and more. |
-| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
+| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/12693-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
 | [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
 | [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
