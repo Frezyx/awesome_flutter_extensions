@@ -17,7 +17,6 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | Official extension for Dart support in VS Code. Provides syntax highlighting, IntelliSense, debugging, and more. |
 | [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | Official extension for Flutter development in VS Code. Offers Flutter-specific commands, project templates, and hot reload. |
 | [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) | Flutter localization binding from .arb files with official Intl library |
-| [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) | Collection of Flutter code snippets for rapid development. |
 | [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) | Simplifies the process of adding dependencies to your `pubspec.yaml` file by providing autocompletion and version selection. |
 | [bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) | Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps. |
 | [Dart Barrel Export File Generator](https://marketplace.visualstudio.com/items?itemName=orestesgaolin.dart-export-index) | Create barrel file that exports the files in current directory. This allows for importing whole folders in batch instead of importing each file one by one. Creates index.dart and dir_name.dart. |
@@ -38,7 +37,7 @@ This repository contains a curated list of the most popular extensions for Flutt
 |--------|-------------|
 | [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) | Official plugin for Flutter development in IntelliJ IDEA. Offers Flutter-specific features like hot reload, widget inspector, and integrated testing. |
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in IntelliJ IDEA. Provides code analysis, code completion, refactoring, and more. |
-| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
+| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/12693-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
 | [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
 | [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
@@ -49,7 +48,7 @@ This repository contains a curated list of the most popular extensions for Flutt
 |--------|-------------|
 | [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter) | Official plugin for Flutter development in Android Studio. Offers Flutter-specific features like hot reload, widget inspector, and integrated testing. |
 | [Dart](https://plugins.jetbrains.com/plugin/6351-dart) | Official plugin for Dart support in Android Studio. Provides code analysis, code completion, refactoring, and more. |
-| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/11929-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
+| [Flutter Enhancement Suite](https://plugins.jetbrains.com/plugin/12693-flutter-enhancement-suite) | Collection of productivity enhancements for Flutter developers, including code generation, file templates, and live templates. |
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
 | [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
 | [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
