@@ -52,3 +52,6 @@ This repository contains a curated list of the most popular extensions for Flutt
 | [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) | Simplifies internationalization in Flutter projects by generating localization code and managing translations. |
 | [bloc](https://plugins.jetbrains.com/plugin/12129-bloc) | Bloc Library Tools for effectively creating blocs and cubits for both Flutter and AngularDart apps. |
 | [ImagePreview](https://plugins.jetbrains.com/plugin/21224-imagepreview) | A preview image url plugin, when you define an image url, you can preview it content and size in IDE |
+| [Nested Brackets Colorer](https://plugins.jetbrains.com/plugin/10210-nested-brackets-colorer) | Coloring nested round (), *angled <>, *braces {} and *square [] brackets starting from the second level |
+| [Highlight Colors for Compose](https://plugins.jetbrains.com/plugin/15439-highlight-colors-for-compose) | Draws rectangle on editor's gutter denoting the color |
+| [Flutter Pub Version Checker](https://plugins.jetbrains.com/plugin/12400-flutter-pub-version-checker) | Inspects your pubspec.yaml file to find if you're using the latest package versions from the pub.dev - the official package repository for Flutter and Dart apps. |
